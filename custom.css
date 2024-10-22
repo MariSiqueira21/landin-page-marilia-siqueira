@@ -137,8 +137,8 @@ p {
         #copyrights {padding: 20px 20px;}	
         
     h1 {
-        font-size: 18px;
-        
+        font-size: 14px;
+        margin-bottom: 0;
     }
 
     h2 {
@@ -322,7 +322,7 @@ p {
     
         h1 {
             line-height: 43px;
-            margin-bottom: 0;
+            margin-bottom: 5px;
         }
     
         h2 {
